@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.hotpot9628.asclimb",
+      "sha256_cert_fingerprints": [
+        "DD:1E:1B:06:3C:79:65:D8:E3:27:CB:0B:42:75:96:C7:D4:7B:31:8B:8D:93:C0:AD:55:6E:2A:50:18:76:AC:09"
+      ]
+    }
+  }
+]
